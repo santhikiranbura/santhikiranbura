@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santhikiranbura
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning java and docker
+- 🌱 I’m currently learning kubernetes with helm and docker
 
 
 <!---
